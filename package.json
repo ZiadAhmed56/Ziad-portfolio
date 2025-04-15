@@ -1,0 +1,13 @@
+{
+  "name": "ziad-portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
